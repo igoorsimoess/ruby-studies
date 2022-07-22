@@ -1,4 +1,3 @@
-
 # I/O
 
 print 'Nome: ' # print não pula linha
