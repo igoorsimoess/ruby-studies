@@ -37,6 +37,5 @@ def example_return(a, b)
     return a < b
     puts "Parou"
 end
-
-puts compare(3, 6)
+compare(3, 6)
 puts example_return(3, 6)
