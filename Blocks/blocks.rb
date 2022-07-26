@@ -65,19 +65,3 @@ varios_param(numbers) do |key,value|
     puts "#{key} * #{value} = #{key * value}"
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
